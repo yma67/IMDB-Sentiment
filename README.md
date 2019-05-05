@@ -1,3 +1,8 @@
+### IMDB Sentiment Classify
+
+### Director: BOSS Li (Chris Li)
+Code: Yuxiang Ma 
+
 ## Package Used
 1. NLTK
 2. glob
@@ -30,6 +35,8 @@ to the same directory along with NBLrgCV.py and project2Final.ipynb, as
        |---- Test
 
 ```
-2. Run NBLrgCV.py for Naive Bayes
+2. Run naiveBayes.ipynb for Naive Bayes
 3. Run through project2Final.ipynb using Jupyter Notebook
 4. Run NBLrgCV.py using python interpreter version 3.7
+
+### Accuracy (F2 Score): 0.91
